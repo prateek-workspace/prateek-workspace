@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prateek-workspace
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on c Language 
+- 💞️ I’m looking to collaborate on DSA 
 - 📫 drop your valuable thoughts my dashboard 
 
 <!---
