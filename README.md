@@ -113,10 +113,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## Top Open Source 
+## Top repositories
 <p align="center">
-    <a href="https://github.com/prateek-workspace/discom">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prateek-workspace&repo=discom&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF">
+    <a href="https://github.com/prateek-workspace/web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prateek-workspace&repo=web&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF">
   </a>
   <a href="https://github.com/prateek-workspace/Complete_DSA">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=prateek-workspace&repo=Complete_DSA&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF">
